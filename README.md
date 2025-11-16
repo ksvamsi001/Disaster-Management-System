@@ -145,30 +145,4 @@ Feel free to fork the repo and open a Pull Request.
 
 ---
 
-<a id="contact"></a>
 
-## 📬 Contact
-
-If you'd like to connect or know more:  
- ✉️ Email: vishnu.siva.b.21@gmail.com  
- 🔗 [LinkedIn](https://www.linkedin.com/in/b-vishnu-siva/) | [Portfolio](https://vishnusiva.site/)
-
----
-
-<a id="support"></a>
-
-### ⭐Support
-
-If you found this project helpful, please consider giving it a star on GitHub!  
-Share it with others who might benefit — educators, developers, or students!
-
----
-
-<a id="license"></a>
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE.md).  
-Feel free to use, modify, and distribute for both personal and commercial purposes.
-
----
