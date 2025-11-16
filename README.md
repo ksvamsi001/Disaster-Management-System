@@ -12,9 +12,6 @@
 - 🛠️ [How to Run Locally](#how-to-run-locally)
 - 💡 [Future Enhancements](#future-enhancements)
 - 🤝 [Contributing](#contributing)
-- 📬 [Contact](#contact)
-- ⭐ [Support](#support)
-- 📝 [License](#license)
 
 ---
 
